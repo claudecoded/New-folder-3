@@ -20,28 +20,19 @@ Instead of letting useful code rot in forgotten directories on your local PC, ev
 
 ---
 
-## 🚀 Featured Tool: File Organizer (`organizer.py`)
-
-The first official resident of this folder is a fully functional script designed to clean up messy directories (like your cluttered Desktop or Downloads folder) by sorting loose files into categorized subfolders automatically.
+### How to Run it
 
 ### How to Run it
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com
-   cd New-folder-3
-   ```
-
-2. Open `organizer.py` and modify the `TARGET_DIR` path to target your desired messy folder:
+1. Open `organizer.py` and modify the `TARGET_DIR` path to target your desired messy folder:
    ```python
    TARGET_DIR = Path.home() / "Downloads"
    ```
 
-3. Run the script:
+2. Run the script directly through your terminal:
    ```bash
    python organizer.py
    ```
-
 ---
 
 ## 🛠️ Tech Stack Used Across Scripts
