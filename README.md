@@ -22,8 +22,6 @@ Instead of letting useful code rot in forgotten directories on your local PC, ev
 
 ### How to Run it
 
-### How to Run it
-
 1. Open `organizer.py` and modify the `TARGET_DIR` path to target your desired messy folder:
    ```python
    TARGET_DIR = Path.home() / "Downloads"
