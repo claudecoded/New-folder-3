@@ -1,0 +1,11 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local test folder created by the script
+test_cleanup_folder/
+
+# OS specific files
+.DS_Store
+Thumbs.db
