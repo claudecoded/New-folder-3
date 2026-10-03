@@ -22,12 +22,14 @@ Instead of letting useful code rot in forgotten directories on your local PC, ev
 
 ### How to Run it
 
-1. Open `organizer.py` and modify the `TARGET_DIR` path to target your desired messy folder:
-   ```python
-   TARGET_DIR = Path.home() / "Downloads"
+1. Download the `organizer.py` file from this repository to your computer.
+
+2. Open your terminal or command prompt and navigate to the folder where you saved the file. For example, if it is in your Downloads folder, run:
+   ```bash
+   cd Downloads
    ```
 
-2. Run the script directly through your terminal:
+3. Execute the script using Python:
    ```bash
    python organizer.py
    ```
