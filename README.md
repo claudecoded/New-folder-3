@@ -1,4 +1,6 @@
-<img width="737" height="461" alt="image" src="https://github.com/user-attachments/assets/933fdc70-e167-49da-be75-d9fdec9f1867" />
+<div align="center">
+  <img width="737" height="461" alt="image" src="https://github.com/user-attachments/assets/933fdc70-e167-49da-be75-d9fdec9f1867" />
+</div>
 
 # New folder (3) 📂
 ---
